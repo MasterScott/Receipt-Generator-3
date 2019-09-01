@@ -1,0 +1,14 @@
+Follow the instructions to make the receipt generator work
+
+STEP 1 - Extract the zip file to web server root folder
+STEP 2 - Create a Database named receipt_db
+STEP 3 - Import the sql file found in the zip file into the database
+STEP 4 - Then open the index file using your web server
+
+Examples of Web server usable are:- 
+1)	Wamp
+2)	Mamp
+3)	Xamp
+		etc...
+
+Then you are ready to generate the receipt
